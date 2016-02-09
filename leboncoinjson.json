@@ -1,0 +1,21 @@
+  {
+	"title": "Le bon coin recuperation",
+	"type": "object",
+	"properties": 
+	{
+		"Price": {
+			"type": "integer"
+		},
+		"Surface": {
+			"type": "integer"
+		},
+		"Codepostal": {
+			"type": "integer"
+		},
+		"Priceperm2lbc": {
+			"type": "integer"
+		}
+		
+	
+	}
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Le bon coin recuperation",
+    "type": "object",
+    "properties": {
+        "Price": "155000",
+        "Surface": "14",
+        "Codepostal": "75015",
+        "Priceperm2lbc": 11071.42857142857
+    }
+}

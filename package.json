@@ -1,0 +1,14 @@
+{
+  "name"         : "Carrez",
+  "version"      : "0.0.1",
+  "description"  : "Scrape web pages",
+  "main"         : "exec.js",
+  "author"       : "Arnoldnanit",
+  "dependencies" : {
+	"ajax"		 : "latest",
+	"cheerio"	 : "latest",
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
